@@ -10,7 +10,6 @@ sys.setdefaultencoding('utf8')
 
 
 
-
 class QiushiSpider(CrawlSpider):
     name = 'qiushi'
     allowed_domains = ['www.jinse.com']

@@ -98,3 +98,8 @@ USER_AGENT_LIST = [
     "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1",
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5",
 ]
+
+MYSQL_HOST = "127.0.0.1"
+MYSQL_DBNAME = "local_test"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "123456"
