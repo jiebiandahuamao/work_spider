@@ -1,0 +1,13 @@
+setup.py
+news_api/__init__.py
+news_api/items.py
+news_api/middlewares.py
+news_api/pipelines.py
+news_api/settings.py
+news_api/spiders/__init__.py
+news_api/spiders/get_news_api.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
